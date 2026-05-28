@@ -1,0 +1,8 @@
+.muralhaChina{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-image: url(../assets/imagens/Muralha.jpg);
+    background-size: cover;
+}
+

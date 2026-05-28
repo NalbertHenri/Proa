@@ -1,0 +1,34 @@
+
+.container_home{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.mala_viagem {
+    width: 50%;
+    height: 500px;
+}
+
+.texto {
+    width: 50%;
+    height: 500px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.texto h1{
+    width: 95%;
+    margin-top: 80px;
+    
+}
+
+.texto p{
+    width: 80%;
+    font-size: 20px;
+    margin-left: 50px;
+}
