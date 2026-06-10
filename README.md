@@ -1,24 +1,29 @@
-📚 Repositório de Estudos - Proa 
+# Repositório de Estudos - Desenvolvimento de Sistemas
 
-Este repositório reúne todas as atividades, exercícios e projetos desenvolvidos durante meu curso do Proa Profissão
+Este repositório foi criado com o objetivo de reunir, organizar e documentar todas as atividades, exercícios e projetos desenvolvidos ao longo do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
-O objetivo é centralizar minha evolução na área de tecnologia, organizando os conteúdos por tema e linguagem, facilitando tanto o aprendizado quanto a consulta futura.
+Mais do que um simples armazenamento de arquivos, este espaço representa minha evolução contínua na área de tecnologia, demonstrando na prática os conhecimentos adquiridos e o desenvolvimento das minhas habilidades técnicas.
 
-🚀 Tecnologias e Conteúdos
+## Tecnologias e Conteúdos
 
-Aqui você encontrará práticas e exercícios relacionados a:
+Neste repositório estão incluídas atividades e práticas relacionadas às seguintes áreas:
 
-💻 Java
-🗄️ Banco de Dados (MySQL)
-🌐 HTML, CSS e JavaScript
-⚛️ React 
-🧠 Lógica de Programação
+* Java
+* Banco de Dados (SQL)
+* HTML, CSS e JavaScript
+* React (em processo de aprendizado)
+* Lógica de Programação
 
+Cada conteúdo está organizado em pastas específicas, facilitando a navegação, o entendimento e a reutilização dos materiais.
 
-🎯 Objetivo
-Consolidar conhecimentos adquiridos durante o curso
-Praticar programação e desenvolvimento de soluções
-Criar um portfólio técnico para oportunidades na área de TI
+## Objetivo
 
-📈 Evolução
-Este repositório está em constante atualização conforme avanço nos estudos e adquiro novos conhecimentos.
+O principal objetivo deste repositório é:
+
+* Consolidar o aprendizado adquirido durante o curso
+* Praticar o desenvolvimento de soluções reais por meio da programação
+* Construir um portfólio técnico sólido para oportunidades na área de Tecnologia da Informação
+
+## Evolução
+
+Este repositório está em constante atualização, acompanhando meu progresso nos estudos e a aquisição de novos conhecimentos, refletindo minha dedicação ao aprendizado contínuo e ao crescimento profissional.
