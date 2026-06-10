@@ -9,13 +9,9 @@ O objetivo é centralizar minha evolução na área de tecnologia, organizando o
 Aqui você encontrará práticas e exercícios relacionados a:
 
 💻 Java
-
 🗄️ Banco de Dados (MySQL)
-
 🌐 HTML, CSS e JavaScript
-
 ⚛️ React 
-
 🧠 Lógica de Programação
 
 
